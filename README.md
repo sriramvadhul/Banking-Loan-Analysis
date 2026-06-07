@@ -75,17 +75,6 @@ These insights help financial institutions enhance risk assessment, portfolio mo
 3. Open `financialLoanAnalysis2021.ipynb` in Jupyter Notebook  
 4. Run all cells sequentially to reproduce the analysis  
 
----
-
-## 🌐 Streamlit Dashboard & Project Links
-
-### 🚀 Live Streamlit Dashboard
-An interactive Streamlit dashboard was created to visualize key insights from the loan dataset.
-
-🔗 **Dashboard Link:**  
-[https://financialloananalysis.streamlit.app](https://financialloananalysis.streamlit.app)
-
----
 
 ### 📊 Streamlit Dashboard Preview
 
@@ -100,10 +89,6 @@ An interactive Streamlit dashboard was created to visualize key insights from th
 
 > 📌 *Note:* Ensure all dashboard screenshots are stored inside the `images/` folder and filenames match the paths above.
 
----
-
-### 💻 GitHub Repository
-Access the complete project source code and analysis here:
 
 
 👤 Author
