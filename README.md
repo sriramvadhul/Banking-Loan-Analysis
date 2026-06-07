@@ -105,13 +105,9 @@ An interactive Streamlit dashboard was created to visualize key insights from th
 ### 💻 GitHub Repository
 Access the complete project source code and analysis here:
 
-🔗 **GitHub Link:**  
-[https://github.com/vinayakdon/Financial-Loan-Analysis](https://github.com/vinayakdon/Financial-Loan-Analysis)
 
----
-
-## 👤 Author
-Vinayak Shivappa Donawad
+👤 Author
+Sreerama Hosahalli Venkatesh
 
 Developed as a data analysis project focused on financial and banking loan insights.
 
